@@ -1,0 +1,16 @@
+//WAJP to check the number is divisible by 6 or not. For this question you cant't divide or modulus the number by 6
+class DivisibleBy6
+{
+	public static void main(String[] args)
+	{
+		int num = 66;
+		if(num % 2==0)
+		{
+			System.out.println("Divisible");
+		}
+		else
+		{
+			System.out.println("Not Divisible");
+		}
+	}
+}

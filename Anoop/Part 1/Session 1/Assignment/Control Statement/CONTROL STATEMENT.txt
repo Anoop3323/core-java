@@ -1,0 +1,12 @@
+CONTROL STATEMENT
+		 1. DECISION MAKING STATEMENT
+		 2. LOOPING STATEMENT
+1. DECISION MAKING STATEMENT
+			    1.if
+			    2.else
+			    3.switch
+			    4.
+1.if
+	symtax=if(condition)
+		{
+		}

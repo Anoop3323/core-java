@@ -1,0 +1,6 @@
+class My Prog
+{
+
+
+
+}
